@@ -1,6 +1,6 @@
 # ICS20-Unit5-05-HTML
 
-[![GitHub's Super Linter](https://github.com/marco-cuconato/ICS20-Unit5-o5-HTML/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/marco-cuconato/ICS20-Unit5-05-HTML/actions)
+[![GitHub's Super Linter](https://github.com/marco-cuconato/ICS20-Unit5-05-HTML/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/marco-cuconato/ICS20-Unit5-05-HTML/actions)
 
 
 [![Run on Repl.it](https://repl.it/badge/github/marco-cuconato/ICS20-Unit5-05-HTML)](https://repl.it/github/marco-cuconato/ICS20-Unit5-05-HTML)
